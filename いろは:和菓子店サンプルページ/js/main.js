@@ -1,6 +1,6 @@
 $(function(){
     $('#top').bgSwitcher({
-      images: ['images/niwa.jpg', 'images/take.jpg', 'images/momiji.jpg', 'images/kasa.jpg'],
+      images: ['images/niwa.jpg', 'images/take.jpg', 'images/fusuma.jpg', 'images/teien.jpg'],
       interval: 5000,
       loop: true,
       shufle: false,
